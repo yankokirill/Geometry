@@ -1,0 +1,3 @@
+/home/kirill/CLionProjects/Geometry/build/CMakeFiles/geometry.dir
+/home/kirill/CLionProjects/Geometry/build/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/Geometry/build/CMakeFiles/rebuild_cache.dir
